@@ -121,7 +121,7 @@ h5 {
 }
 
 .offer-half-width {
-    
+
     padding: 200px 50px;
 }
 
@@ -147,8 +147,32 @@ h5 {
     text-decoration: none;
 }
 
-.instagram-flex{
+.instagram-flex {
     display: flex;
     justify-content: center;
     gap: 20px;
+}
+
+/* section-5 */
+.background {
+    background-image: url("/Flower Asset/Rectangle 9.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+
+}
+
+.bg-text {
+
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin: 100px 100px;
+}
+
+input {
+
+    border: 0px;
+    margin-right: 10px;
 }
