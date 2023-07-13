@@ -105,3 +105,50 @@ h5 {
     color: rgba(39, 39, 39, 0.80);
     ;
 }
+
+/* section-4 */
+
+.offer-heading {
+    color: #272727;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.offer-flex {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.offer-half-width {
+    
+    padding: 200px 50px;
+}
+
+.offer-img {
+    width: 80%;
+    padding: 150px 0px;
+}
+
+.link-button {
+
+
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
+
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+}
+
+.instagram-flex{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
