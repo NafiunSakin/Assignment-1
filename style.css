@@ -176,3 +176,11 @@ input {
     border: 0px;
     margin-right: 10px;
 }
+
+/* footer */
+
+footer{
+    background-color: #111010;
+    height: 290px;
+    margin-top: 50px;
+}
