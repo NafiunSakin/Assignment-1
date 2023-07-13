@@ -1,18 +1,19 @@
-body{
+body {
     font-family: Lato;
     background: rgba(229, 84, 115, 0.10);
 }
 
-p{
+p {
     color: rgba(39, 39, 39, 0.60);
 
 }
+
 /* section-1 */
 
-.heading{
-        color: #272727;
-        font-size: 50px;
-        font-weight: 900;
+.heading {
+    color: #272727;
+    font-size: 50px;
+    font-weight: 900;
 }
 
 .paragraph {
@@ -31,29 +32,29 @@ p{
 }
 
 .heading-img {
-        width: 60%;
-        padding: 30px 130px;
+    width: 60%;
+    padding: 30px 130px;
 }
 
 .link-button {
 
-        display: inline-flex;
-        padding: 20px 43px;
-        align-items: flex-start;
-        gap: 10px;
-        border-radius: 8px;
-        background: #E55473;
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
 
-        color: #FFF;
-        font-size: 20px;
-        font-weight: 700;
-        line-height: normal;
-        text-decoration: none;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
 }
 
 /* Section-2 */
 
-.align-layout{
+.align-layout {
     text-align: center;
     font-style: normal;
 
@@ -61,31 +62,46 @@ p{
 
 
 
-.feature-h{
+.feature-h {
     font-size: 40px;
     font-weight: 800;
     line-height: normal;
 }
 
-.feature-flex{
+.feature-flex {
     display: flex;
     justify-content: center;
     margin: 20px 30px;
     padding: 10px 10px;
-    
 
-    
+
+
 }
 
-.feature-border{
+.feature-border {
     display: flexbox;
     justify-content: center;
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
     margin: 00px 15px;
 }
-h5{
+
+h5 {
     text-align: center;
     font-weight: 700;
     font-size: 24px;
+}
+
+/* Section-3 */
+.support-flex {
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+
+.info-flex {
+    display: flex;
+    justify-content: center;
+    color: rgba(39, 39, 39, 0.80);
+    ;
 }
